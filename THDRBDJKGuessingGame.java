@@ -5,7 +5,7 @@ CS 145
 Assignment: Guessing game
 Reference: 141 Guessing game
 Purpose: To guess a number
-Extra Credit: Try Catch 89-99
+Extra Credit: Try Catch 92-102
 
 */
 
